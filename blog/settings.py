@@ -25,7 +25,7 @@ SECRET_KEY = '7x5_7xw_b5g_bk6%#$i-%%-dpsh^o5v2dn)-v37=z76riwvats'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1', 'emmaodia.pythonanywhere.com']
 
 
 # Application definition
